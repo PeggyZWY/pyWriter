@@ -47,7 +47,7 @@ pip install -r requirements.txt
 *（画外音：那看看皮裤汪吧？）*    
   
 **结果：**   
-![result_wf_1](result_wf.png)  
+![result_wf](img/result_wf.png)  
   
 ∑(っ °Д °;)っ  
   
@@ -64,6 +64,6 @@ pip install -r requirements.txt
   
 看起来还真像那么一回事啊 (￣▽￣")   果然老本行还是可以的！  
   
-==**各位玩得开心 :)**==
+**各位玩得开心 :)**
   
  
